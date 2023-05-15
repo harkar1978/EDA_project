@@ -12,3 +12,5 @@ missingno==0.5.1
 geopandas
 geodatasets
 folium
+mpl_toolkits
+sklearn
